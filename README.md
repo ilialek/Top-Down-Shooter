@@ -2,6 +2,7 @@
 
 A fast-paced 2D top-down shooter made in Unity, featuring reactive AI, destructible environments, and a short narrative-driven progression.
 
+![https://github.com/ilialek/Resources/blob/main/Rescue%20Victoria%20demo.gif](https://github.com/ilialek/Resources/blob/main/Rescue%20Victoria%20demo.gif)
 
 ## Game Overview
 
