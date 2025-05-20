@@ -2,13 +2,11 @@
 
 A fast-paced 2D top-down shooter made in Unity, featuring reactive AI, destructible environments, and a short narrative-driven progression.
 
----
 
 ## Game Overview
 
 You play as a determined protagonist on a mission to rescue your kidnapped girlfriend, **Victoria**, from the heart of an enemy-infested facility. Fight your way through multiple levels of armed guards and obstacles, using an expanding arsenal of weapons and power-ups.
 
----
 
 ## Key Features
 
@@ -19,7 +17,6 @@ You play as a determined protagonist on a mission to rescue your kidnapped girlf
 - Collect **health packs and weapon upgrades** to survive increasingly difficult encounters
 - All **art assets were created from scratch** by me
 
----
 
 ## Technical Highlights
 
